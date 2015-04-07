@@ -11,6 +11,10 @@ using WorkItem = Microsoft.TeamFoundation.WorkItemTracking.Client.WorkItem;
 
 namespace TFSAggregator
 {
+    using Microsoft.VisualStudio.Services.ClientNotification;
+
+    using NotificationType = Microsoft.TeamFoundation.Framework.Server.NotificationType;
+
     public class WorkItemChangedEventHandler : ISubscriber
     {
         
