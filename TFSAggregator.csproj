@@ -104,17 +104,9 @@
     <Compile Include="WorkItemHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DLLs\Microsoft.TeamFoundation.Client.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.Common.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.Common.xml" />
     <Content Include="DLLs\Microsoft.TeamFoundation.Framework.Server.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Client.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Client.xml" />
     <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Server.Dataaccesslayer.dll" />
     <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Server.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Server.PlugIns.dll" />
-    <Content Include="DLLs\Microsoft.TeamFoundation.WorkItemTracking.Server.Servicing.dll" />
     <Content Include="LICENSE-2.0.txt" />
     <Content Include="References\PLACEHOLDER.txt" />
     <Content Include="Samples\01 - Basic test\AggregatorItems.xml">
